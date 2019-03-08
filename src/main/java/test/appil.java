@@ -4,7 +4,7 @@ public class appil {
 	public static void main(String[] args) {
 		System.out.println("test__git1");
 		System.out.println("test__git2");
-		System.out.println("hot_fix");
+		System.out.println("hot_fix_git2");
 	}
 
 }
